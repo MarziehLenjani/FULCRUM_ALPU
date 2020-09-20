@@ -1,2 +1,2 @@
 # FULCRUM_ALPU
-Please stay tuned, we will release our code soon
+Please stay contact Marzieh.Lenjani@virginia.edu for the RTL codes.
